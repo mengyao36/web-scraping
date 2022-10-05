@@ -2,7 +2,7 @@
 
 ## Install needed python packages
 - Request
-    `import requests`
+  - `import requests`
 - BeautifulSoup
   - `from bs4 import BeautifulSoup`
 - Pandas
