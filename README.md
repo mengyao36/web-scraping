@@ -5,5 +5,5 @@
   - `import requests`
 - BeautifulSoup
   - `from bs4 import BeautifulSoup`
- - Pandas
+- Pandas
   - `import pandas as pd`
