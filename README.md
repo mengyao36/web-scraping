@@ -9,6 +9,9 @@
   - `import pandas as pd`
 
 ## Two webpages selected to extract data from
-- Alzheimer's Association - Alzheimer's Disease Facts and Figures
-  - https://www.alz.org/alzheimers-dementia/facts-figures
-- 
+- Alzheimer's Association - 2022 Featured News
+  - https://www.alz.org/news/2022
+- Long Island City 10 Day Weather
+  - https://weather.com/weather/tenday/l/Long+Island+City+NY+USNY0833:1:US
+
+## 
