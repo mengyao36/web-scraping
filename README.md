@@ -9,6 +9,6 @@
   - `import pandas as pd`
 
 ## Two webpages selected to extract data from
-- Alzheimer's Asspciation - Alzheimer's Disease Facts and Figures
+- Alzheimer's Association - Alzheimer's Disease Facts and Figures
   - https://www.alz.org/alzheimers-dementia/facts-figures
 - 
